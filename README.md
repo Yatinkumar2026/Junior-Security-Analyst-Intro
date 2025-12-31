@@ -1,3 +1,5 @@
+SOC Level 1
+
 # 📌 Security Analyst Journey — TryHackMe Lab Documentation
 
 Welcome to my **Security Analyst Journey**, a hands-on SOC beginner project completed through **TryHackMe**.
